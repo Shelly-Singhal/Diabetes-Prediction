@@ -15,9 +15,9 @@ This project focuses on predicting whether a patient is likely to have diabetes 
 
 **Models Applied:**
 
-- Logistic Regression
+- K-Nearest Neighbors
 - Decision Tree
-- Random Forest
+- MLPClassifier
 
 **Comparison of Performances:**
 
