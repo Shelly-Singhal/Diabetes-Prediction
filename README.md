@@ -1,7 +1,7 @@
 # Diabetes-Prediction
 This project focuses on predicting whether a patient is likely to have diabetes using machine learning techniques. 
 
-**Dataset used-** diabetes.xls
+**Dataset used-** diabetes.csv
 
 **Project-** Diabetes_Prediction.ipynb
 
